@@ -33,10 +33,6 @@ let result = fccRegex.test(myString);
 console.log(result);
 
 
-
-console.log();
-
-
 /*
 E:\githubrepo_local\Regex>node 04ignoreCase.js
 true
